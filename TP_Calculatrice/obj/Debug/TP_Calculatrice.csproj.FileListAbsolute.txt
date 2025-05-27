@@ -1,0 +1,10 @@
+C:\Users\Mathieu\source\repos\TP_Calculatrice\TP_Calculatrice\bin\Debug\TP_Calculatrice.exe.config
+C:\Users\Mathieu\source\repos\TP_Calculatrice\TP_Calculatrice\bin\Debug\TP_Calculatrice.exe
+C:\Users\Mathieu\source\repos\TP_Calculatrice\TP_Calculatrice\bin\Debug\TP_Calculatrice.pdb
+C:\Users\Mathieu\source\repos\TP_Calculatrice\TP_Calculatrice\obj\Debug\TP_Calculatrice.csproj.AssemblyReference.cache
+C:\Users\Mathieu\source\repos\TP_Calculatrice\TP_Calculatrice\obj\Debug\TP_Calculatrice.Form1.resources
+C:\Users\Mathieu\source\repos\TP_Calculatrice\TP_Calculatrice\obj\Debug\TP_Calculatrice.Properties.Resources.resources
+C:\Users\Mathieu\source\repos\TP_Calculatrice\TP_Calculatrice\obj\Debug\TP_Calculatrice.csproj.GenerateResource.cache
+C:\Users\Mathieu\source\repos\TP_Calculatrice\TP_Calculatrice\obj\Debug\TP_Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Mathieu\source\repos\TP_Calculatrice\TP_Calculatrice\obj\Debug\TP_Calculatrice.exe
+C:\Users\Mathieu\source\repos\TP_Calculatrice\TP_Calculatrice\obj\Debug\TP_Calculatrice.pdb

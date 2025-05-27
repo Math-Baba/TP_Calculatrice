@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mathieu\\source\\repos\\TP_Calculatrice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC75A34C-2C01-4E57-9548-13A87EB83952}|TP_Calculatrice\\TP_Calculatrice.csproj|C:\\Users\\Mathieu\\source\\repos\\TP_Calculatrice\\tp_calculatrice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC75A34C-2C01-4E57-9548-13A87EB83952}|TP_Calculatrice\\TP_Calculatrice.csproj|solutionrelative:tp_calculatrice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC75A34C-2C01-4E57-9548-13A87EB83952}|TP_Calculatrice\\TP_Calculatrice.csproj|c:\\users\\mathieu\\source\\repos\\tp_calculatrice\\tp_calculatrice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC75A34C-2C01-4E57-9548-13A87EB83952}|TP_Calculatrice\\TP_Calculatrice.csproj|solutionrelative:tp_calculatrice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mathieu\\source\\repos\\TP_Calculatrice\\TP_Calculatrice\\Form1.cs",
+              "RelativeDocumentMoniker": "TP_Calculatrice\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mathieu\\source\\repos\\TP_Calculatrice\\TP_Calculatrice\\Form1.cs",
+              "RelativeToolTip": "TP_Calculatrice\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T05:11:10.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mathieu\\source\\repos\\TP_Calculatrice\\TP_Calculatrice\\Form1.cs",
+              "RelativeDocumentMoniker": "TP_Calculatrice\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mathieu\\source\\repos\\TP_Calculatrice\\TP_Calculatrice\\Form1.cs [Design]",
+              "RelativeToolTip": "TP_Calculatrice\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T04:37:32.062Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
